@@ -2,7 +2,7 @@
 rangetest.csv viewer for Meshtastic
 
 The live version is available here:
-https://deformedweb.co.uk/meshtastic/read-rangetest.html
+* https://deformedweb.co.uk/meshtastic/read-rangetest.html
 
 This code is for viewing a rangetest.csv file saved from a Meshtastic Node. Tested with the file saved from the Android App, not sure about other clients.
 
@@ -18,4 +18,7 @@ Note: the file is processed entirely in the browser, it is never shared or uploa
 
 Contributing
 -- 
-Open an issue above, or submit a pull request!
+Open an issue (including for feature requests) above, or submit a pull request!
+
+Or for more informal discussion see
+* https://meshtastic.discourse.group/t/prototype-app-for-viewing-rangetest-csv/12041
